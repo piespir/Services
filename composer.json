@@ -3,10 +3,11 @@
     "require": {
         "php": ">=5.3"
     },
-    "authors": 
+    "authors":[
         {
-            "name": "Augusto Pascutti",
-            "email": "augusto@phpsp.org.br"
+            "name": "Igor C. de Paula",
+            "email": "igordepaula@adminweb.com.br"
         }
+    ]
 }
 
