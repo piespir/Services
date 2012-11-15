@@ -1,7 +1,7 @@
 <?php
 namespace Services;
 interface IService {
-    public function getService();
+    public function getService($service, $params = NULL);
 }
 
 ?>

@@ -6,7 +6,9 @@
     </head>
     <body>
         <?php
-        // put your code here
+          include 'Services/Service.php';
+          $s = new Services\Service();
+          echo $db = $s->getService("Db/Database");
         ?>
     </body>
 </html>
