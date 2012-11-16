@@ -15,6 +15,7 @@
         "psr-0": {
             "": "services"
         }
-    }
+    },
+    "target-dir":"services"
 }
 
